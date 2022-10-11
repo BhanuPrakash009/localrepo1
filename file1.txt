@@ -1,1 +1,2 @@
 Hello World in file1
+adding the new line
